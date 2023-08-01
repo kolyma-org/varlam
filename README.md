@@ -2,7 +2,7 @@
 
 <h1 align="center">Varlam</h1>
 
-<p align="center">DDoS Gulag for Educational systems. In memory of <a href="https://en.wikipedia.org/wiki/Varlam_Shalamov">Varlam Tikhonovich Shalamov</a></p>.
+<p align="center">DDoS Gulag for Educational systems. In memory of <a href="https://en.wikipedia.org/wiki/Varlam_Shalamov">Varlam Tikhonovich Shalamov</a></p>
 
 # Target
 
