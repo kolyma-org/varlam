@@ -18,7 +18,7 @@ services:
     environment:
       CONNECTIONS: 1000
       INTERVAL: 1m
-      RESOURCES_URL: https://raw.githubusercontent.com/mad-maids/maid.juuzou/main/resources.txt
+      RESOURCES_URL: https://raw.githubusercontent.com/kolyma-org/varlam/main/resources.txt
     logging:
       driver: awslogs
       options:

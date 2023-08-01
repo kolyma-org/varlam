@@ -1,8 +1,8 @@
-<p align="center"><img width="300" src="./docs/readme.webp"/></p>
+<p align="center"><img width="300" src="./docs/readme.jpg"/></p>
 
-<h1 align="center">Maid Juuzou</h1>
+<h1 align="center">Varlam</h1>
 
-<p align="center">Malicious things on steroids.</p>
+<p align="center">DDoS Gulag for Educational systems. In memory of <a href="https://en.wikipedia.org/wiki/Varlam_Shalamov">Varlam Tikhonovich Shalamov</a></p>.
 
 # Target
 
@@ -23,7 +23,7 @@ The easiest way
 # Instruction for Windows and Mac:
 1. Install Docker: https://www.docker.com/products/docker-desktop (For mac please pay attention if you download version for the correct chip)
 2. Launch Docker and make sure that Docker is running
-3. Go here https://github.com/mad-maids/maid.juuzou/blob/main/README.md
+3. Go here https://github.com/kolyma-org/varlam/blob/main/README.md
 4. For best result use VPN :
     - Psiphon: https://psiphon.ca/ (free)
     - Secure VPN: https://www.securevpn.com/ (free)
